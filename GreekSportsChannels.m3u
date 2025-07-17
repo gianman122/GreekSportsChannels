@@ -1,37 +1,37 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-#EXTINF:-1,Cosmote Sport 1 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 1 HD
 https://thedaddy.click/stream/stream-622.php
-#EXTINF:-1,Cosmote Sport 2 HD 
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 2 HD
 https://thedaddy.click/stream/stream-623.php
-#EXTINF:-1,Cosmote Sport 3 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 3 HD
 https://thedaddy.click/stream/stream-624.php
-#EXTINF:-1,Cosmote Sport 4 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 4 HD
 https://thedaddy.click/stream/stream-625.php
-#EXTINF:-1,Cosmote Sport 5 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 5 HD
 https://thedaddy.click/stream/stream-626.php
-#EXTINF:-1,Cosmote Sport 6 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 6 HD
 https://thedaddy.click/stream/stream-627.php
-#EXTINF:-1,Cosmote Sport 7 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 7 HD
 https://thedaddy.click/stream/stream-628.php
-#EXTINF:-1,Cosmote Sport 8 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 8 HD
 https://thedaddy.click/stream/stream-629.php
-#EXTINF:-1,Cosmote Sport 9 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-9-gr.png?raw=true" group-title="DaddyLive Global Sports",Cosmote Sport 9 HD
 https://thedaddy.click/stream/stream-630.php
-#EXTINF:-1,Nova Sports Prime HD
+#EXTINF:-1 tvg-id="Novasports.Prime.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-start-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports Prime Greece
 https://thedaddy.click/stream/stream-638.php
-#EXTINF:-1,Nova Sports Start HD
+#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-start-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports Start Greece
 https://thedaddy.click/stream/stream-637.php
-#EXTINF:-1,Nova Sports Premier League HD
+#EXTINF:-1 tvg-id="Novasports.Premier.League.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/sports/leagues/premier-league-uk.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports Premier League Greece
 https://thedaddy.click/stream/stream-599.php
-#EXTINF:-1,Nova Sports 1 HD
+#EXTINF:-1 tvg-id="Novasports1HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-1-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports 1 Greece
 https://thedaddy.click/stream/stream-631.php
-#EXTINF:-1,Nova Sports 2 HD
+#EXTINF:-1 tvg-id="Novasports2HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-2-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports 2 Greece
 https://thedaddy.click/stream/stream-632.php
-#EXTINF:-1,Nova Sports 3 HD
+#EXTINF:-1 tvg-id="Novasports3HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-3-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports 3 Greece
 https://thedaddy.click/stream/stream-633.php
-#EXTINF:-1,Nova Sports 4 HD
+#EXTINF:-1 tvg-id="Novasports4HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-4-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports 4 Greece
 https://thedaddy.click/stream/stream-634.php
-#EXTINF:-1,Nova Sports 5 HD
+#EXTINF:-1 tvg-id="Novasports5HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-5-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports 5 Greece
 https://thedaddy.click/stream/stream-635.php
-#EXTINF:-1,Nova Sports 6 HD
+#EXTINF:-1 tvg-id="Novasports6HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-6-gr.png?raw=true" group-title="DaddyLive Global Sports",Nova Sports 6 Greece
 https://thedaddy.click/stream/stream-636.php
